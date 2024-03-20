@@ -11,8 +11,9 @@ Second, defect detection methods are categorized into traditional algorithms and
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
+- Real-time Processing: The system should be able to process and detect defects in real-time to maintain production speed.
+- Visualization Tools: Visualize the model's attention on specific regions of the fabric to understand its decision-making process.
+- Integration with Manufacturing Systems: Integrate the system with existing quality control systems to flag defective fabrics and halt production if necessary.
 - High scalability.
 - Less time complexity.
 - A specific scope of Chatbot response model, using json data format.
